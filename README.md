@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter Bou-Farah</h1>
 <h3 align="center">Software Engineering (Co-Op) Student at University of Ottawa, Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-bf&label=Profile%20views&color=0e75b6&style=flat" alt="peter-bf" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-bf&label=Profile%20views&color=71e651&style=flat" alt="peter-bf" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS**
 
