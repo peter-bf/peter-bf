@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter-bf&label=Profile%20views&color=71e651&style=flat" alt="peter-bf" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS**
+- 🌱 I’m currently learning **JavaScript and NodeJS**
 
 - 📫 How to reach me **peter.boufarah@gmail.com**
 
