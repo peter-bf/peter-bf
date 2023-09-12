@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **peter.boufarah@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z5hAlAdXpOe8anux0h3jL-h-eOl8L7ez/view?usp=sharing](https://drive.google.com/file/d/1z5hAlAdXpOe8anux0h3jL-h-eOl8L7ez/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jMwRjYfUuov_lFKDdASb4qafVOWXgI0b/view?usp=sharing](https://drive.google.com/file/d/1jMwRjYfUuov_lFKDdASb4qafVOWXgI0b/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
