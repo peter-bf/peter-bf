@@ -8,9 +8,6 @@
   <a href="https://github.com/peter-bf/peter-bf/blob/main/PeterBouFarah_Resume_Fall2025.pdf">📝 Resume</a>
 </p>
 
----
-
-
 
 <!-- ### 🌐 Connect with Me
 <p align="left">
