@@ -4,8 +4,8 @@
 <p align="center">
   <a href="mailto:peter.boufarah@gmail.com">📧 peter.boufarah@gmail.com</a> • 
   <a href="https://linkedin.com/in/peter-bou-farah">🔗 LinkedIn</a>
-  • 
-  <a href="https://github.com/peter-bf/peter-bf/blob/main/PeterBouFarah_Resume_Fall2025.pdf">📝 Resume</a>
+  <!-- •  -->
+  <!-- <a href="https://github.com/peter-bf/peter-bf/blob/main/PeterBouFarah_Resume_Fall2025.pdf">📝 Resume</a> -->
 </p>
 
 
