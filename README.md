@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Peter! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/</h1>
-<h3 align="center">4th year Software Engineering (CO-OP) Student at the University of Ottawa</h3>
+<h3 align="center">3rd year Software Engineering (CO-OP) Student at the University of Ottawa</h3>
 
 <p align="center">
   <a href="mailto:peter.boufarah@gmail.com">📧 peter.boufarah@gmail.com</a> • 
